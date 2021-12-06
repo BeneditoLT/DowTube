@@ -3,10 +3,7 @@
 
 Script destinado a fazer download do YouTube
 
- ____                _____      _
-|  _    ____      _|_   _|   _| |__    ___ 
-| | | |/ _      /  / / | || | | | '_   / _  
-| |_| | (_)    V  V /  | || |_| | |_) |  __/
-|____/   ___/  _/ _/   |_|  __,_|_.__/  ___|
+div align="center"
+img src="https://github.com/BeneditoLT/DowTube/issues/1#issue-1071687161" width="0px" /
+/div
 
-Insira o link:
