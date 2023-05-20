@@ -14,6 +14,7 @@ def inputlink():
     valink = validators.url(link)
    
     if not valink:
+        
         del link
         inputlink()
         return -1
